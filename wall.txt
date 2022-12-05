@@ -1,1 +1,2 @@
 "amazon" 
+wall has to be applied with putty and painted with blue.
